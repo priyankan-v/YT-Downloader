@@ -114,7 +114,7 @@ sudo apt-get install ffmpeg
 
 Edit `YTD.py` and change this line to your preferred folder:
 ```python
-DEFAULT_SAVE = r"E:\Music\Tamil Travel Songs"  # Change this path
+DEFAULT_SAVE = r"E:\Music\Songs"  # Change this path
 ```
 
 ### Step 5: Run the Application
